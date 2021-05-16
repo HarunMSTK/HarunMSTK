@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ichbinharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/HarunMSTK/HarunMSTK/dev/instagram-logo-A807AD378B-seeklogo.com.png" alt="ichbinharun" height="30" width="40" /></a>
+<a href="https://instagram.com/ichbinharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/HarunMSTK/HarunMSTK/dev/instagram-logo-A807AD378B-seeklogo.com.png" alt="ichbinharun" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
