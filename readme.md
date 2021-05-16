@@ -1,4 +1,4 @@
-<h1 align="center">Hey i'm Harun MISTIKk</h1>
+<h1 align="center">Hey i'm Harun MISTIK</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunmstk&label=Profile%20views&color=7b0193&style=flat-square" alt="harunmstk" /> </p>
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ichbinharun" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="ichbinharun" height="30" width="40" /></a>
+<a href="https://instagram.com/ichbinharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/HarunMSTK/HarunMSTK/dev/instagram-logo-A807AD378B-seeklogo.com.png" alt="ichbinharun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
